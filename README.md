@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aleksander</h1>
-<h3 align="center">Currently i'm studying to be a Junior Full-Stack Developer at the CodeCool course 🏫</h3>
+<h3 align="center">Currently, I’m studying to become a Junior Full-Stack Developer at the CodeCool course 🏫.</h3>
 
 - 🔭 I’m currently working on [Fitness Oasis](https://github.com/Al3ksanderD/Grande_Project_CC)
 
