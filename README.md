@@ -9,7 +9,7 @@
 
 - 💻 Reach me on [CodeWars](https://www.codewars.com/users/AleksanderD2137)
   
-- 👨🏽‍💻 Reach me on **TryHackMe.com** by my user name **AleksanderxD**
+- 👨🏽‍💻 Reach me on [TryHackMe](https://tryhackme.com/profile/AleksanderxD)
 
 
 
