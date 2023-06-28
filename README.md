@@ -7,6 +7,12 @@
 
 - 📫 How to reach me **aleksanderdudzinski1999@gmail.com**
 
+- 💻 Reach me on [CodeWars](https://www.codewars.com/users/AleksanderD2137)
+  
+- 👨🏽‍💻 Reach me on **TryHackMe.com** by my user name **AleksanderxD**
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aleksanderdudzinski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aleksanderdudzinski" height="30" width="40" /></a>
